@@ -29,4 +29,3 @@ def beyonce
  	 end
 
 end
-
