@@ -30,7 +30,3 @@ def beyonce
 #what is this end for?
 
 beyonce.job
-
-    end
-    beyonce = Person.new
-    beyonce.name = "Beyonce aka Yonce aka Mrs Carter"
