@@ -12,10 +12,11 @@ class Person
 
     def beyonce
       @beyonce = "Beyonce"
-    end
+  
 
   def job
     job = "Singer"
+  end
   end
 beyonce.job
     end
