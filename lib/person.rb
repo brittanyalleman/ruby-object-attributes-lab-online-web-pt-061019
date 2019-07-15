@@ -11,7 +11,7 @@ class Person
    end
 
     def name
-      name = "Beyonce"
+      @name = "Beyonce"
     end
 
   def job
