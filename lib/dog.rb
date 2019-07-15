@@ -12,5 +12,6 @@ def name
 
     def name
       name = (new_name)
+    end
 end
 end
