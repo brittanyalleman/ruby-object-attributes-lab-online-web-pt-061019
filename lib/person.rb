@@ -11,7 +11,11 @@ class Person
    end
 
     def name
-      name = ""
+      name = "Beyonce"
     end
+
+  def job
+    job = "Singer"
+  end
 
     end
