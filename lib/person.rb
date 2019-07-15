@@ -27,6 +27,6 @@ def beyonce
   	def job
    	 job = "Singer"
  	 end
-#what is this end for?
+
 end
-beyonce.job
+
