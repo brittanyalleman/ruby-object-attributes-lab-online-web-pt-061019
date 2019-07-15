@@ -10,7 +10,7 @@ class Person
       @name = new_name
    end
 
-    def name
+    def name 
       @Beyonce = "Beyonce"
     end
 
