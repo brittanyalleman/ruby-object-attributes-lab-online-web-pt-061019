@@ -10,8 +10,8 @@ class Person
       @name = new_name
    end
 
-    def name
-      @name = "Beyonce"
+    def beyonce
+      @beyonce = "Beyonce"
     end
 
   def job
