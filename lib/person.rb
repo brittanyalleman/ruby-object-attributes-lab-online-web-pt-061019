@@ -15,14 +15,10 @@ class Person
       @job = job
     end
 
-def beyonce
-  beyonce = Person.new
-  beyonce.name = "Beyonce aka Yonce aka Mrs Carter"
-
-
-    #def beyonce
-    #  @beyonce = "Beyonce"
-    end #we were missing an end here
+    def beyonce
+     beyonce = Person.new
+     beyonce.name = "Beyonce aka Yonce aka Mrs Carter"
+    end
 
   	def job
    	 job = "Singer"
