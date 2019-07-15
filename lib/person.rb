@@ -17,5 +17,5 @@ class Person
   def job
     job = "Singer"
   end
-
+Beyonce.job
     end
