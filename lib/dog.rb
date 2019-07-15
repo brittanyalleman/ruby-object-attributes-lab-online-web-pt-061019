@@ -13,5 +13,8 @@ def name
     def name
       name = "Fido"
     end
+
+    def breed
+      breed = "Beagle"
 end
 end
