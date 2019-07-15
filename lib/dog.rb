@@ -10,7 +10,7 @@ def name
       @name = new_name
     end
 
-    def name 
+    def name
       name = (new_name)
 end
 end
