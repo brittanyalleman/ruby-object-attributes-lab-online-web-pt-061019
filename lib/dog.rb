@@ -16,6 +16,6 @@ def name
 
     def breed
       breed = "Beagle"
-      x
+    end
 end
 end
