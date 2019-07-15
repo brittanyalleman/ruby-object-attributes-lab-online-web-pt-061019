@@ -11,7 +11,7 @@ def name
     end
 
     def name
-      name = (name)
+      name = "Fido"
     end
 end
 end
