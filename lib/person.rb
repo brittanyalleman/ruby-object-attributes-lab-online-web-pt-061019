@@ -11,7 +11,7 @@ class Person
       @name = new_name
    end
 
-   
+
    beyonce = Person.new
    beyonce.name = "Beyonce aka Yonce aka Mrs Carter"
 
