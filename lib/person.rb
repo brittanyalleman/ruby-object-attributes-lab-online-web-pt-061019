@@ -11,6 +11,11 @@ class Person
       @name = new_name
    end
 
+   
+   beyonce = Person.new
+   beyonce.name = "Beyonce aka Yonce aka Mrs Carter"
+
+
     def beyonce
       @beyonce = "Beyonce"
     end #we were missing an end here
@@ -23,3 +28,5 @@ class Person
 beyonce.job
 
     end
+    beyonce = Person.new
+    beyonce.name = "Beyonce aka Yonce aka Mrs Carter"
