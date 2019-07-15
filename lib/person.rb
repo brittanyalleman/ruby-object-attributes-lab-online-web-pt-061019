@@ -11,11 +11,11 @@ class Person
    end
 
     def name 
-      @Beyonce = "Beyonce"
+      @name = "Beyonce"
     end
 
   def job
     job = "Singer"
   end
-Beyonce.job
+beyonce.job
     end
