@@ -19,3 +19,4 @@ class Person
   end
 beyonce.job
     end
+end
